@@ -32,7 +32,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
     - [Cyber Security and Ethical Hacking](#cyber-security-and-ethical-hacking)
-- [Machine Learning, AI, NLP](#machine-learning,-ai,-nlp)
+- [Machine Learning, AI, NLP](#machine-learning-ai-nlp)
 - [App Development](#app-development)
     - [React Native](#react-native)
     - [Flutter](#flutter)
@@ -153,7 +153,7 @@ Take any of the two above course for getting started with basics. They have the 
 - [Basics of Cyber Security](https://www.udemy.com/share/1000AiAEYceF9SQHQ=/)
 - [Network security](https://www.udemy.com/share/100240AEYceF9SQHQ=/)
 
-## Machine Learning, AI, NLP
+## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignemnets for maximu outcome from this course.
 2. For Mathematics and Statistics, Youtube Channel like [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk) can be preferred.
