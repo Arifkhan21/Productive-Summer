@@ -32,7 +32,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
     - [Cyber Security and Ethical Hacking](#cyber-security-and-ethical-hacking)
-- [Machine Learning, AI, NLP](#Machine-Learning,-AI,-NLP)
+- [Machine Learning, AI, NLP](#machine-learning,-ai,-nlp)
 - [App Development](#app-development)
     - [React Native](#react-native)
     - [Flutter](#flutter)
